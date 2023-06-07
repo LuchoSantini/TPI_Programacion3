@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiTPI", "ApiTPI\ApiTPI.csproj", "{A76B7166-F205-44F4-948F-AE984574700C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{3A1BF94E-458B-4CC1-802B-EB225A26CAD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{548D34DE-5A86-43AE-8625-8AE5C8CFD245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A76B7166-F205-44F4-948F-AE984574700C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76B7166-F205-44F4-948F-AE984574700C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76B7166-F205-44F4-948F-AE984574700C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76B7166-F205-44F4-948F-AE984574700C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A1BF94E-458B-4CC1-802B-EB225A26CAD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A1BF94E-458B-4CC1-802B-EB225A26CAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A1BF94E-458B-4CC1-802B-EB225A26CAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A1BF94E-458B-4CC1-802B-EB225A26CAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548D34DE-5A86-43AE-8625-8AE5C8CFD245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548D34DE-5A86-43AE-8625-8AE5C8CFD245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548D34DE-5A86-43AE-8625-8AE5C8CFD245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548D34DE-5A86-43AE-8625-8AE5C8CFD245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F05CC5D9-75F4-4DDB-B037-95E49F335E24}
+	EndGlobalSection
+EndGlobal
