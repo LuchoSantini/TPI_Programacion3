@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucho\\Desktop\\TPI P3\\TPI_Prog3\\ApiTPI\\ApiTPI\\ApiTPI.csproj": {}
+    "C:\\Users\\lucho\\Desktop\\TPI P3\\TPI_Prog3\\ApiTPI\\Models\\Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucho\\Desktop\\TPI P3\\TPI_Prog3\\ApiTPI\\ApiTPI\\ApiTPI.csproj": {
+    "C:\\Users\\lucho\\Desktop\\TPI P3\\TPI_Prog3\\ApiTPI\\Models\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucho\\Desktop\\TPI P3\\TPI_Prog3\\ApiTPI\\ApiTPI\\ApiTPI.csproj",
-        "projectName": "ApiTPI",
-        "projectPath": "C:\\Users\\lucho\\Desktop\\TPI P3\\TPI_Prog3\\ApiTPI\\ApiTPI\\ApiTPI.csproj",
+        "projectUniqueName": "C:\\Users\\lucho\\Desktop\\TPI P3\\TPI_Prog3\\ApiTPI\\Models\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "C:\\Users\\lucho\\Desktop\\TPI P3\\TPI_Prog3\\ApiTPI\\Models\\Model.csproj",
         "packagesPath": "C:\\Users\\lucho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucho\\Desktop\\TPI P3\\TPI_Prog3\\ApiTPI\\ApiTPI\\obj\\",
+        "outputPath": "C:\\Users\\lucho\\Desktop\\TPI P3\\TPI_Prog3\\ApiTPI\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,9 +44,11 @@
               "target": "Package",
               "version": "[6.0.0, )"
             },
-            "Swashbuckle.AspNetCore": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -62,9 +63,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

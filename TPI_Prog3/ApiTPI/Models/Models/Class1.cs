@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Models.DTO
+namespace Model.Models
 {
-    public class PedidoDTO
+    internal class Class1
     {
-        public string property { get; set; }
     }
 }
