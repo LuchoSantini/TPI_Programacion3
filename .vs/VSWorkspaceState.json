@@ -3,8 +3,10 @@
     "",
     "\\TPI_Prog3",
     "\\TPI_Prog3\\ApiTPI",
+    "\\TPI_Prog3\\ApiTPI\\Models",
+    "\\TPI_Prog3\\ApiTPI\\Models\\DTO",
     "\\TPI_Prog3\\ApiTPI\\Service"
   ],
-  "SelectedNode": "\\TPI_Prog3\\ApiTPI\\Service\\Class1.cs",
+  "SelectedNode": "\\TPI_Prog3\\ApiTPI\\Models\\DTO\\PedidoDTO.cs",
   "PreviewInSolutionExplorer": false
 }
