@@ -9,8 +9,6 @@ namespace Models.DTO
     public class ProductoDTO
     {
         public int IdProducto { get; set; }
-        public string TituloProducto { get; set; } = string.Empty;
+        public string NombreProducto { get; set; } = string.Empty;
         public int PrecioProducto { get; set;}
-        public string TalleProducto { get; set; }
-    }
 }
