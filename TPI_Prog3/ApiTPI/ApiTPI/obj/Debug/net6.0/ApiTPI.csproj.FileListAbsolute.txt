@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\sebar\Desktop\FACU_3\TPI_Programacion3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\sebar\Desktop\FACU_3\TPI_Programacion3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\appsettings.json
 C:\Users\sebar\Desktop\FACU_3\TPI_Programacion3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\ApiTPI.exe
@@ -32,3 +33,72 @@ C:\Users\sebar\Desktop\FACU_3\TPI_Programacion3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debu
 C:\Users\sebar\Desktop\FACU_3\TPI_Programacion3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\ApiTPI.pdb
 C:\Users\sebar\Desktop\FACU_3\TPI_Programacion3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\ApiTPI.genruntimeconfig.cache
 C:\Users\sebar\Desktop\FACU_3\TPI_Programacion3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\ref\ApiTPI.dll
+=======
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\appsettings.json
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\ApiTPI.exe
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\ApiTPI.deps.json
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\ApiTPI.runtimeconfig.json
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\ApiTPI.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\ApiTPI.pdb
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Model.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Service.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Service.pdb
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\bin\Debug\net6.0\Model.pdb
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\ApiTPI.csproj.AssemblyReference.cache
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\ApiTPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\ApiTPI.AssemblyInfoInputs.cache
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\ApiTPI.AssemblyInfo.cs
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\ApiTPI.csproj.CoreCompileInputs.cache
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\ApiTPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\ApiTPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\staticwebassets\msbuild.ApiTPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiTPI.props
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiTPI.props
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiTPI.props
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\scopedcss\bundle\ApiTPI.styles.css
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\ApiTPI.csproj.CopyComplete
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\ApiTPI.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\refint\ApiTPI.dll
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\ApiTPI.pdb
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\ApiTPI.genruntimeconfig.cache
+C:\Users\lucho\Desktop\TPI P3\TPI_Prog3\ApiTPI\ApiTPI\obj\Debug\net6.0\ref\ApiTPI.dll
+>>>>>>> f19194c8d37571abb0338c3f5dbe909531d715f9
