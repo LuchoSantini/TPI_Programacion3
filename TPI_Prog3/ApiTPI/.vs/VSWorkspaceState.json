@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Models",
+    "\\Models\\DTO"
   ],
-  "SelectedNode": "\\ApiTPI",
+  "SelectedNode": "\\Models\\DTO\\ProductoDTO.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucho\\Desktop\\TPI P3\\TPI_Prog3\\ApiTPI\\Service\\Service.csproj": {}
+    "C:\\Users\\sebar\\Desktop\\FACU_3\\TPI_Programacion3\\TPI_Prog3\\ApiTPI\\Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucho\\Desktop\\TPI P3\\TPI_Prog3\\ApiTPI\\Service\\Service.csproj": {
+    "C:\\Users\\sebar\\Desktop\\FACU_3\\TPI_Programacion3\\TPI_Prog3\\ApiTPI\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucho\\Desktop\\TPI P3\\TPI_Prog3\\ApiTPI\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\sebar\\Desktop\\FACU_3\\TPI_Programacion3\\TPI_Prog3\\ApiTPI\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\lucho\\Desktop\\TPI P3\\TPI_Prog3\\ApiTPI\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\lucho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucho\\Desktop\\TPI P3\\TPI_Prog3\\ApiTPI\\Service\\obj\\",
+        "projectPath": "C:\\Users\\sebar\\Desktop\\FACU_3\\TPI_Programacion3\\TPI_Prog3\\ApiTPI\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\sebar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebar\\Desktop\\FACU_3\\TPI_Programacion3\\TPI_Prog3\\ApiTPI\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lucho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sebar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
